@@ -1,0 +1,2 @@
+#Validate string for PHP DateInterval stringn
+(P([1-9]|[1-9][0-9])(W|D|M|H)|PT([1-9]|[1-9][0-9])H)
